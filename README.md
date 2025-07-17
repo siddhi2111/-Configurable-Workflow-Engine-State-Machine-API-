@@ -3,6 +3,10 @@
 
 A lightweight and extensible *workflow engine* built with *ASP.NET Core*. This project allows users to define workflows with states and transitions, instantiate workflows, and execute actions to move through states.
 
+## Quick Start
+
+1. Clone this repository
+2. Run the API dotnet run
 ---
 
 ## Features
